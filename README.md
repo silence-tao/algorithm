@@ -16,6 +16,6 @@
 - [ ] 6. 字符串：字典树、后缀树
 
 ### 力扣刷题 - Leet-Code
-#### 模拟
-- [ ] 1. [134. 加油站](https://leetcode-cn.com/problems/gas-station/)
+#### 模拟 - simulation
+- [x] 1. [134. 加油站](https://leetcode-cn.com/problems/gas-station/) GasStation.java
 - [ ] 2. [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/)
