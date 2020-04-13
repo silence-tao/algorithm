@@ -19,7 +19,7 @@
 #### 模拟 - simulation
 - [x] 1. [134. 加油站](https://leetcode-cn.com/problems/gas-station/) GasStation.java
 - [x] 2. [146. LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/) LRUCache.java
-- [ ] 3. [202. 快乐数](https://leetcode-cn.com/problems/happy-number/)
-- [ ] 4. [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/)
-- [ ] 5. [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/)
-- [ ] 6. [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/)
+- [x] 3. [202. 快乐数](https://leetcode-cn.com/problems/happy-number/) HappyNumber.java
+- [x] 4. [289. 生命游戏](https://leetcode-cn.com/problems/game-of-life/) GameOfLife.java
+- [x] 5. [371. 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/) SumOfTwoIntegers.java
+- [x] 6. [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/) FizzBuzz.java
