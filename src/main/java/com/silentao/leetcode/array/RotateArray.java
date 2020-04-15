@@ -1,4 +1,4 @@
-package com.silentao.algorithms.array;
+package com.silentao.leetcode.array;
 
 /**
  * @Description
