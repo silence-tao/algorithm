@@ -31,7 +31,7 @@
 - [x] 4. [217. 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) ContainsDuplicate.java
 - [x] 5. [283. 移动零](https://leetcode-cn.com/problems/move-zeroes/) MoveZeroes.java
 - [x] 6. [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) ShuffleAnArray.java
-- [ ] 7. [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/)
-- [ ] 8. [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/)
+- [x] 7. [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) IntersectionOfTwoArrays.java
+- [x] 8. [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) IncreasingTripletSubSequence.java
 - [ ] 9. [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
 - [ ] 10. [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
