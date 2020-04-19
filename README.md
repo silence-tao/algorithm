@@ -35,3 +35,14 @@
 - [x] 8. [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) IncreasingTripletSubSequence.java
 - [x] 9. [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) SearchA2DMatrix.java
 - [x] 10. [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) ProductArrayExceptSelf.java
+
+#### 链表 - linked
+- [ ] 1. [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/)
+- [ ] 2. [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/)
+- [ ] 3. [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
+- [ ] 4. [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
+- [ ] 5. [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
+- [ ] 6. [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
+- [ ] 7. [237. 删除链表中的节点
+](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+- [ ] 8. [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
