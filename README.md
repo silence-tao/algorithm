@@ -33,5 +33,5 @@
 - [x] 6. [384. 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array/) ShuffleAnArray.java
 - [x] 7. [350. 两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/) IntersectionOfTwoArrays.java
 - [x] 8. [334. 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence/) IncreasingTripletSubSequence.java
-- [ ] 9. [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/)
-- [ ] 10. [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/)
+- [x] 9. [240. 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) SearchA2DMatrix.java
+- [x] 10. [238. 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) ProductArrayExceptSelf.java
