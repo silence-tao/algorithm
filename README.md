@@ -38,7 +38,7 @@
 
 #### 链表 - linked
 - [x] 1. [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) CopyListWithRandomPointer.java
-- [ ] 2. [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) LinkedListCycle.java
+- [x] 2. [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) LinkedListCycle.java
 - [ ] 3. [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
 - [ ] 4. [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
 - [ ] 5. [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
