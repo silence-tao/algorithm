@@ -39,10 +39,10 @@
 #### 链表 - linked
 - [x] 1. [138. 复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/) CopyListWithRandomPointer.java
 - [x] 2. [141. 环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) LinkedListCycle.java
-- [ ] 3. [148. 排序链表](https://leetcode-cn.com/problems/sort-list/)
-- [ ] 4. [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)
-- [ ] 5. [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/)
-- [ ] 6. [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/)
-- [ ] 7. [237. 删除链表中的节点
-](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)
+- [x] 3. [148. 排序链表](https://leetcode-cn.com/problems/sort-list/) SortList.java
+- [x] 4. [160. 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/) IntersectionTwoLinkedLists.java
+- [x] 5. [206. 反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) ReverseLinkedList.java
+- [x] 6. [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) PalindromeLinkedList.java
+- [x] 7. [237. 删除链表中的节点
+](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) DeleteNodeLinkedList.java
 - [ ] 8. [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
