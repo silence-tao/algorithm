@@ -45,4 +45,4 @@
 - [x] 6. [234. 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/) PalindromeLinkedList.java
 - [x] 7. [237. 删除链表中的节点
 ](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) DeleteNodeLinkedList.java
-- [ ] 8. [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/)
+- [x] 8. [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) OddEvenLinkedList.java
