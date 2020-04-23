@@ -46,3 +46,14 @@
 - [x] 7. [237. 删除链表中的节点
 ](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) DeleteNodeLinkedList.java
 - [x] 8. [328. 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/) OddEvenLinkedList.java
+
+#### 数学&位运算 - math
+- [x] 1. [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) SingleNumber.java
+- [ ] 2. [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)
+- [ ] 3. [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/)
+- [ ] 4. [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
+- [ ] 5. [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+- [ ] 6. [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
+- [ ] 7. [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
+- [ ] 8. [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/)
+- [ ] 9. [326. 3的幂](https://leetcode-cn.com/problems/power-of-three/)
