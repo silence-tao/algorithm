@@ -51,8 +51,8 @@
 - [x] 1. [136. 只出现一次的数字](https://leetcode-cn.com/problems/single-number/) SingleNumber.java
 - [ ] 2. [149. 直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/)
 - [x] 3. [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) FractionRecurringDecimal.java
-- [ ] 4. [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/)
-- [ ] 5. [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/)
+- [x] 4. [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) FactorialTrailingZeroes.java
+- [x] 5. [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) ReverseBits.java
 - [ ] 6. [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
 - [ ] 7. [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
 - [ ] 8. [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/)
