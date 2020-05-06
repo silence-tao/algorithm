@@ -53,7 +53,7 @@
 - [x] 3. [166. 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/) FractionRecurringDecimal.java
 - [x] 4. [172. 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/) FactorialTrailingZeroes.java
 - [x] 5. [190. 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/) ReverseBits.java
-- [ ] 6. [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/)
-- [ ] 7. [204. 计数质数](https://leetcode-cn.com/problems/count-primes/)
+- [x] 6. [191. 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/) NumberBits.java
+- [x] 7. [204. 计数质数](https://leetcode-cn.com/problems/count-primes/) CountPrimes.java
 - [ ] 8. [268. 缺失数字](https://leetcode-cn.com/problems/missing-number/)
 - [ ] 9. [326. 3的幂](https://leetcode-cn.com/problems/power-of-three/)
