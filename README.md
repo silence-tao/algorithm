@@ -61,5 +61,5 @@
 #### 图论 - graph
 - [ ] 1. [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/)
 - [ ] 2. [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
-- [ ] 3. [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
-- [ ] 4. [207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
+- [ ] 3. [207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
+- [ ] 4. [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
