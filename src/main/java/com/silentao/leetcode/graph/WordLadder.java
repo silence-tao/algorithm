@@ -1,4 +1,4 @@
-package com.silentao.leetcode;
+package com.silentao.leetcode.graph;
 
 import javafx.util.Pair;
 

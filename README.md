@@ -60,6 +60,6 @@
 
 #### 图论 - graph
 - [x] 1. [127. 单词接龙](https://leetcode-cn.com/problems/word-ladder/) WordLadder.java
-- [ ] 2. [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
+- [x] 2. [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) NumberIslands.java
 - [ ] 3. [207. 课程表](https://leetcode-cn.com/problems/course-schedule/)
 - [ ] 4. [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/)
