@@ -63,3 +63,14 @@
 - [x] 2. [200. 岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) NumberIslands.java
 - [x] 3. [207. 课程表](https://leetcode-cn.com/problems/course-schedule/) CourseSchedule.java
 - [x] 4. [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/) CourseSchedule.java
+
+#### 字符串 - string
+- [ ] 1. [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+- [ ] 2. [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
+- [ ] 3. [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
+- [ ] 4. [140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)
+- [ ] 5. [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+- [ ] 6. [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
+- [ ] 7. [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
+- [ ] 8. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
+- [ ] 9. [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
