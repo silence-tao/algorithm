@@ -65,7 +65,7 @@
 - [x] 4. [210. 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/) CourseSchedule.java
 
 #### 字符串 - string
-- [ ] 1. [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
+- [x] 1. [125. 验证回文串](https://leetcode-cn.com/problems/valid-palindrome/) ValidPalindrome.java
 - [ ] 2. [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/)
 - [ ] 3. [139. 单词拆分](https://leetcode-cn.com/problems/word-break/)
 - [ ] 4. [140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/)
