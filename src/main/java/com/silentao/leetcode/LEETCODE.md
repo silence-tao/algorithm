@@ -18,3 +18,6 @@
 
 #### 树 - tree
 * [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) BinaryTreeLevelOrderTraversal.java
+
+#### 字符串 - string
+* [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) ValidPalindrome.java
