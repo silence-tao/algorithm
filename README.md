@@ -69,7 +69,7 @@
 - [x] 2. [131. 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning/) PalindromePartitioning.java
 - [x] 3. [139. 单词拆分](https://leetcode-cn.com/problems/word-break/) WordBreak.java
 - [x] 4. [140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) WordBreak.java
-- [ ] 5. [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/)
+- [x] 5. [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) ImplementTriePrefixTree.java
 - [ ] 6. [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
 - [ ] 7. [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
 - [ ] 8. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
