@@ -72,5 +72,5 @@
 - [x] 5. [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) ImplementTriePrefixTree.java
 - [ ] 6. [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
 - [x] 7. [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) ValidAnagram.java
-- [ ] 8. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
-- [ ] 9. [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+- [x] 8. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) FirstUniqueCharacter.java
+- [x] 9. [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) ReverseString.java
