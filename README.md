@@ -76,15 +76,15 @@
 - [x] 9. [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) ReverseString.java
 
 #### 堆 - heap
-- [ ] 1. [155. 最小栈](https://leetcode-cn.com/problems/min-stack/)
-- [ ] 2. [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/)
+- [x] 1. [155. 最小栈](https://leetcode-cn.com/problems/min-stack/) MinStack.java
+- [x] 2. [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) LargestElementInArray.java
 - [ ] 3. [295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
-- [ ] 4. [378. 有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/)
-- [ ] 5. [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/)
+- [x] 4. [378. 有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) SmallestElementInSortedMatrix.java
+- [x] 5. [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) TopFrequentElements.java
 
 #### 栈 - stack
-- [ ] 1. [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/)
-- [ ] 2. [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/)
+- [x] 1. [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) EvaluateReversePolishNotation.java
+- [x] 2. [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) BasicCalculator.java
 - [ ] 3. [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
 
 #### 哈希 - map
