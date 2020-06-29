@@ -8,6 +8,7 @@
 
 
 #### 链表 - linked
+* [23. 合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) MergeSortedLists.java
 
 
 #### 数学&位运算 - math
