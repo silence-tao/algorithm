@@ -20,9 +20,11 @@ public class KTHSmallestElementInBST {
      * @return
      */
     public int kthSmallest(TreeNode root, int k) {
-        ArrayList<Integer> res = dfs(root, new ArrayList<>());
+        /*ArrayList<Integer> res = dfs(root, new ArrayList<>());
 
-        return res.get(k - 1);
+        return res.get(k - 1);*/
+
+        return dfs(root, k).val;
     }
 
     /**
@@ -41,5 +43,25 @@ public class KTHSmallestElementInBST {
         dfs(root.right, res);
 
         return res;
+    }
+
+    /**
+     * 中序遍历，用count记录遍历到了第几个数
+     */
+    int count = 0;
+    private TreeNode dfs(TreeNode root, int k) {
+        if (root == null) {
+            return null;
+        }
+
+        TreeNode left = dfs(root.left, k);
+
+        if (++count == k) {
+            return root;
+        }
+
+        TreeNode right = dfs(root.right, k);
+
+        return left != null ? left : right;
     }
 }
