@@ -104,11 +104,11 @@
 - [ ] 1. [218. 天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/)
 
 #### 排序 - sort
-- [ ] 1. [179. 最大数](https://leetcode-cn.com/problems/largest-number/)
+- [x] 1. [179. 最大数](https://leetcode-cn.com/problems/largest-number/) LargestNumber.java
 - [ ] 1. [324. 摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/)
 
 #### 二分法 - dichotomy
-- [ ] 1. [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/)
+- [x] 1. [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) FindPeakElement.java
 - [ ] 2. [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
 - [ ] 3. [315. 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)
 
