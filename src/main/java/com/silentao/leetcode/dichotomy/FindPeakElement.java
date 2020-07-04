@@ -26,6 +26,11 @@ public class FindPeakElement {
         return len;
     }
 
+    /**
+     * 利用二分法：将数组分割成交替的升序或降序的序列
+     * @param nums
+     * @return
+     */
     public static int findPeakElement1(int[] nums) {
         int len = nums.length;
 
