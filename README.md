@@ -109,7 +109,7 @@
 
 #### 二分法 - dichotomy
 - [x] 1. [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) FindPeakElement.java
-- [ ] 2. [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/)
+- [x] 2. [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) FindTheDuplicateNumber.java
 - [ ] 3. [315. 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)
 
 #### 滑动窗口 - sliding
