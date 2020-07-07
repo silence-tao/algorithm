@@ -19,6 +19,10 @@
 
 #### 树 - tree
 * [102. 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/) BinaryTreeLevelOrderTraversal.java
+* [98. 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree/) ValidateBinarySearchTree.java
 
 #### 字符串 - string
 * [680. 验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/) ValidPalindrome.java
+
+#### 二分法 - dichotomy
+* [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) FindMinimumRotatedSortedArray.java
