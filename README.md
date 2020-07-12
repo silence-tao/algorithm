@@ -71,6 +71,55 @@
 - [x] 4. [140. 单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/) WordBreak.java
 - [x] 5. [208. 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/) ImplementTriePrefixTree.java
 - [ ] 6. [212. 单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/)
-- [ ] 7. [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
-- [ ] 8. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
-- [ ] 9. [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/)
+- [x] 7. [242. 有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/) ValidAnagram.java
+- [x] 8. [387. 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/) FirstUniqueCharacter.java
+- [x] 9. [344. 反转字符串](https://leetcode-cn.com/problems/reverse-string/) ReverseString.java
+
+#### 堆 - heap
+- [x] 1. [155. 最小栈](https://leetcode-cn.com/problems/min-stack/) MinStack.java
+- [x] 2. [215. 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/) LargestElementInArray.java
+- [ ] 3. [295. 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
+- [x] 4. [378. 有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/) SmallestElementInSortedMatrix.java
+- [x] 5. [347. 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/) TopFrequentElements.java
+
+#### 栈 - stack
+- [x] 1. [150. 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/) EvaluateReversePolishNotation.java
+- [x] 2. [227. 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/) BasicCalculator.java
+- [ ] 3. [341. 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/)
+
+#### 哈希 - map
+- [ ] 1. [171. Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/)
+- [ ] 2. [454. 四数相加 II](https://leetcode-cn.com/problems/4sum-ii/)
+- [ ] 3. [380. 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/)
+
+#### 队列 - queue
+- [x] 1. [239. 滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/) SlidingWindowMaximum.java
+
+#### 树 - tree
+- [x] 1. [230. 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/) KTHSmallestElementInBST.java
+- [x] 2. [236. 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/) LowestCommonAncestorOfBinaryTree.java
+- [ ] 3. [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
+
+#### 线段树 - segment
+- [ ] 1. [218. 天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/)
+
+#### 排序 - sort
+- [x] 1. [179. 最大数](https://leetcode-cn.com/problems/largest-number/) LargestNumber.java
+- [ ] 1. [324. 摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/)
+
+#### 二分法 - dichotomy
+- [x] 1. [162. 寻找峰值](https://leetcode-cn.com/problems/find-peak-element/) FindPeakElement.java
+- [x] 2. [287. 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/) FindTheDuplicateNumber.java
+- [ ] 3. [315. 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/)
+
+#### 滑动窗口 - sliding
+- [ ] 1. [395. 至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+
+#### 动态规划 - dynamic
+- [ ] 1. [124. 二叉树中的最大路径和](https://leetcode-cn.com/problems/binary-tree-maximum-path-sum/)
+- [ ] 2. [128. 最长连续序列](https://leetcode-cn.com/problems/longest-consecutive-sequence/)
+- [ ] 3. [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
+- [ ] 4. [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
+- [ ] 5. [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
+- [ ] 6. [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+- [ ] 7. [329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
