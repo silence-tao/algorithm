@@ -26,3 +26,7 @@
 
 #### 二分法 - dichotomy
 * [153. 寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) FindMinimumRotatedSortedArray.java
+* [33. 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) SearchRotatedSortedArray.java
+
+#### 排序 - sort
+* [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) NextPermutation.java
