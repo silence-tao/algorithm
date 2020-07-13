@@ -121,5 +121,5 @@
 - [ ] 3. [198. 打家劫舍](https://leetcode-cn.com/problems/house-robber/)
 - [ ] 4. [279. 完全平方数](https://leetcode-cn.com/problems/perfect-squares/)
 - [ ] 5. [300. 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
-- [ ] 6. [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/)
+- [x] 6. [322. 零钱兑换](https://leetcode-cn.com/problems/coin-change/) CoinChange.java
 - [ ] 7. [329. 矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
