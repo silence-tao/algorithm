@@ -30,3 +30,4 @@
 
 #### 排序 - sort
 * [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) NextPermutation.java
+* [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) MergeIntervals.java

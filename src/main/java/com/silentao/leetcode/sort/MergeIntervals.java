@@ -12,9 +12,7 @@ import java.util.*;
 public class MergeIntervals {
 
     /**
-     * 输入: [[1,3],[2,6],[8,10],[15,18]]
-     * 输出: [[1,6],[8,10],[15,18]]
-     * 解释: 区间 [1,3] 和 [2,6] 重叠, 将它们合并为 [1,6].
+     * 先根据区间的起始位置排序，再进行 n -1n−1 次 两两合并
      * @param intervals
      * @return
      */
@@ -24,38 +22,23 @@ public class MergeIntervals {
             return new int[0][0];
         }
 
-        Arrays.sort(intervals, (o1, o2) -> o1[0] > o2[0] ? 1 : o1[0] > o2[0] ? 0 : -1);
-
-        Stack<int []> stack = new Stack<>();
-        stack.push(intervals[0]);
-        for (int i = 1; i < len; i++) {
-            int[] temp = stack.peek();
-            int[] item = intervals[i];
-
-            if (temp[1] >= item[0]) {
-                int[] ints = new int[2];
-                ints[0] = temp[0];
-
-                if (temp[1] >= item[1]) {
-                    ints[1] = temp[1];
-                } else {
-                    ints[1] = item[1];
-                }
-
-                stack.pop();
-                stack.push(ints);
+        // 按起始位置排序
+        Arrays.sort(intervals, (o1, o2) -> o1[0] - o2[0]);
+        int pos = -1;
+        int[][] ans = new int[len][2];
+        for (int[] interval : intervals) {
+            // 如果结果数组是空的，或者当前区间的起始位置 > 结果数组中最后区间的终止位置，
+            // 则不合并，直接将当前区间加入结果数组。
+            if (pos == -1 || interval[0] > ans[pos][1]) {
+                ans[++pos] = interval;
             } else {
-                stack.push(item);
+                // 反之将当前区间合并至结果数组的最后区间
+                ans[pos][1] = Math.max(ans[pos][1], interval[1]);
             }
         }
 
-        int[][] ans = new int[stack.size()][2];
-        int k = 0;
-        while (!stack.isEmpty()) {
-            ans[k++] = stack.pop();
-        }
-
-        return ans;
+        // 截取结果
+        return Arrays.copyOf(ans, pos + 1);
     }
 
     public static void main(String[] args) {
