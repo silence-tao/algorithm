@@ -31,6 +31,8 @@
 
 #### 排序 - sort
 * [31. 下一个排列](https://leetcode-cn.com/problems/next-permutation/) NextPermutation.java
+* [56. 合并区间](https://leetcode-cn.com/problems/merge-intervals/) MergeIntervals.java
 
 #### 搜索 - search
 * [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) JumpGame.java
+* [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) MaximalSquare.java
