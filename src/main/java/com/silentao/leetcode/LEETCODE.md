@@ -36,3 +36,7 @@
 #### 搜索 - search
 * [55. 跳跃游戏](https://leetcode-cn.com/problems/jump-game/) JumpGame.java
 * [221. 最大正方形](https://leetcode-cn.com/problems/maximal-square/) MaximalSquare.java
+
+#### 动态规划 - dynamic
+* [494. 目标和](https://leetcode-cn.com/problems/target-sum/) TargetSum.java
+* [416. 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/) PartitionEqualSubsetSum.java
