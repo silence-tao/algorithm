@@ -125,8 +125,6 @@ public class BasicCalculator {
                     pos++;
                     // 计算括号表达式里的值
                     num = calculateWithBrackets(s, len);
-                    // 跳过')'
-                    pos++;
                 }
 
                 if (symbol == '+') {
@@ -158,6 +156,6 @@ public class BasicCalculator {
     }
 
     public static void main(String[] args) {
-        System.out.println(calculateWithBrackets(" 4 * ( 2 * (9 - 8) + 4 ) + 1 + 2 * (3 - 1) * 2"));
+        System.out.println(calculateWithBrackets(" 4 * ( 2 * (9 - 8)+ 4 )+ 1 + 2 * (3 - 1)* 2"));
     }
 }

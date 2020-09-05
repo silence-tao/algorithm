@@ -1,8 +1,7 @@
 package com.silentao.leetcode.math;
 
-import org.omg.PortableInterceptor.INACTIVE;
-
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 /**
  * @Description

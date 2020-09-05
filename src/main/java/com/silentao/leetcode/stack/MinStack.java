@@ -1,4 +1,4 @@
-package com.silentao.leetcode.heap;
+package com.silentao.leetcode.stack;
 
 import java.util.Stack;
 

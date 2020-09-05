@@ -42,12 +42,9 @@ public class SearchA2DMatrix {
             // 目标会落在l上
             if (arr[l] == target) {
                 return true;
-            } else if (arr[l] < target) {
-                // target在l的右边，缩小范围
-                l = l + 1;
-                r = w;
             } else {
-                // target在l的左边，缩小范围
+                // arr[l]如果不等于target
+                // 那么arr[l]一定会大于target，缩小范围
                 r = l - 1;
                 l = 0;
             }

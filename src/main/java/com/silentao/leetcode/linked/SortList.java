@@ -62,10 +62,12 @@ public class SortList {
         while (left != null || right != null) {
             if (left == null) {
                 node.next = right;
-                right = right.next;
+
+                break ;
             } else if (right == null) {
                 node.next = left;
-                left = left.next;
+
+                break ;
             } else if (left.val < right.val) {
                 node.next = left;
                 left = left.next;

@@ -21,16 +21,15 @@ public class MajorityElement {
      */
     public int majorityElement(int[] nums) {
         int len, t = (len = nums.length) / 2;
-        int sum = 0, res = nums[0];
+        int res = nums[0];
 
         Map<Integer, Integer> memory = new HashMap<>(len);
         for (int i = 0; i < len; i++) {
             int num;
             memory.put(nums[i], num = (memory.getOrDefault(nums[i], 0) + 1));
 
-            if (num > t && num > sum) {
+            if (num > t) {
                 res = nums[i];
-                sum = num;
             }
         }
 

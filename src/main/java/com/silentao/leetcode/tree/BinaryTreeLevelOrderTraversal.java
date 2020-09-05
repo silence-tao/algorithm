@@ -67,7 +67,7 @@ public class BinaryTreeLevelOrderTraversal {
             return res;
         }
 
-        // 保存所以的节点
+        // 保存所有的节点
         List<TreeNode> treeNodes = new ArrayList<>();
         // st记录每层遍历的开始位置
         // len记录遍历的总长度
